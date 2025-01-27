@@ -1,2 +1,3 @@
-# ayush.github.io
+# ayushKaurav
+ayushkaurav.github.io
 Ayush Kaurav's Website
