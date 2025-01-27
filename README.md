@@ -1,2 +1,2 @@
-# nikhil.github.io
-Nikhil Advani's Website
+# ayush.github.io
+Ayush Kaurav's Website
